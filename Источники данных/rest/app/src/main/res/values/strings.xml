@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RetrofitDemo</string>
+    <string name="login">Войти</string>
+    <string name="login_vk">Войти через Вконтакте</string>
+    <string name="title_profile">Profile Screen</string>
+    <string name="action_post_request">Send post request</string>
+    <string name="action_send_file">Send file to server</string>
+    <string name="grant_permission">Please give permission to camera for this app</string>
+    <string name="gallery_title">RetrofitDemo Gallery</string>
+</resources>
